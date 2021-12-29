@@ -1,0 +1,43 @@
+@dp.message_handler(commands='start')
+@dp.message_handler(commands='Del_user')
+@dp.message_handler(commands='Del_admin')
+@dp.message_handler(commands='Create_chat')
+@dp.message_handler(commands='send_week')
+@dp.message_handler(commands='send_file')
+@dp.message_handler(commands='ALL_ADMIN ')
+@dp.message_handler(commands='Save_admin ')
+@dp.message_handler(commands='ALL_USER ')
+@dp.message_handler(commands='Find_chat')
+@dp.message_handler(commands='Find_user_id')
+@dp.message_handler(commands='Find_username')
+@dp.message_handler(commands='Find_real_name')
+@dp.message_handler(commands='Find_name_of_agency')
+@dp.message_handler(commands='Find_payid')
+@dp.message_handler(commands='Find_strikes')
+@dp.message_handler(commands='Find_hyperlink')
+@dp.message_handler(commands='Find_tag')
+@dp.message_handler(commands='Find_notes')
+@dp.message_handler(commands='Find_wallet')
+@dp.message_handler(commands='Find_cash_out')
+@dp.message_handler(commands='wallet')
+@dp.message_handler(commands='CARD')
+@dp.message_handler(commands='Change_user_id')
+@dp.message_handler(commands='Change_payid')
+@dp.message_handler(commands='Change_strikes')
+@dp.message_handler(commands='Change_tag')
+@dp.message_handler(commands='Change_notes')
+@dp.message_handler(commands='Change_cash_out')
+@dp.message_handler(commands='Change_balance')
+@dp.message_handler(commands='spam')
+
+#######################################
+@dp.message_handler(commands='CARD')
+@dp.message_handler(commands='Change_balance')
+@dp.message_handler(commands='Change_tag')
+@dp.message_handler(commands='Create_chat')
+@dp.message_handler(commands='Deluser')
+
+
+
+
+
